@@ -1,0 +1,5 @@
+module SwiftNUStep [system] {
+  header "/usr/include/GNUstep/Foundation/Foundation.h"
+  link "SwiftNUStep"
+  export *
+}
