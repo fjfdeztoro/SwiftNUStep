@@ -1,0 +1,5 @@
+module GNUStep [system] {
+  header "/usr/include/GNUStep.h"
+  link "GNUStep"
+  export *
+}
